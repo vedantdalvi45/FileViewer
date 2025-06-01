@@ -18,7 +18,7 @@ FileViewer is a lightweight Android application demonstrating core file handling
 
 | Main Interface | File Editing | Storage Info |
 |----------------|-------------|--------------|
-| <img src="screenshots/Screenshot_2025-06-01_131746.png" width="300"> | <img src="screenshots/Screenshot_2025-06-01_131808.png" width="300"> | <img src="screenshots/Screenshot_2025-06-01_132913.png" width="300"> |
+| <img src="screenshots/img1.png" width="300"> | <img src="screenshots/img2.png" width="300"> | <img src="screenshots/img3.png" width="300"> |
 
 
 ## Installation
