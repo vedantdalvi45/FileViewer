@@ -20,19 +20,6 @@ FileViewer is a lightweight Android application demonstrating core file handling
 |----------------|-------------|--------------|
 | <img src="screenshots/Screenshot_2025-06-01_131746.png" width="300"> | <img src="screenshots/Screenshot_2025-06-01_131808.png" width="300"> | <img src="screenshots/Screenshot_2025-06-01_132913.png" width="300"> |
 
-## Technical Implementation
-
-```mermaid
-graph TD
-    A[Main Activity] --> B[Create File]
-    A --> C[Write File]
-    A --> D[Read File]
-    B --> E[FileOutputStream]
-    C --> F[EditText + Save Handler]
-    D --> G[TextView Display]
-    E --> H[Internal Storage]
-    F --> H
-    G --> H
 
 ## Installation
 
